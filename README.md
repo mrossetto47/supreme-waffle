@@ -1,8 +1,6 @@
-# supreme-waffle
+# Projeto: Identificador de Idioma por Frequência de Letras
 
-#Projeto: Identificador de Idioma por Frequência de Letras*
-
-##Funcionamento:
+## Funcionamento:
 
  Este projeto utiliza o módulo *requests* para fazer uma requisição HTTP em uma URL fornecida pelo usuário.
 
@@ -14,7 +12,7 @@
 
  Dessa forma é possível estimar o idioma mais semelhante com o texto da página e o grau de similaridade percentual.
 
- ##Instruções:
+ ## Instruções:
 
  1. Verifique se você possui o Python instalado. Caso tenha dúvidas, siga as instruções na documentação oficial ou no site:
 
@@ -24,13 +22,13 @@
 
  3. Utilizando o terminal, navegue até a pasta na qual o projeto foi salvo e execute o comando:
     
-    **~ pip install -r requirements.txt**
+    **pip install -r requirements.txt**
 
     Isso garantirá que todos os pacotes necessários para o funcionamento estejam instalados no seu computador.
 
 4. Execute o script principal navegando até a pasta raiz via terminal e executando o comando:
 
-   **~ python3 src/ID_idioma_URL.py**
+   **python3 src/ID_idioma_URL.py**
 
 5. Siga as instruções apresentadas no terminal.
 
